@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fernando Ferreira
 
 - 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando Typescript, Javascript, HTML / CSS
+- 🌱 Estudando Typescript, Javascript
 - 📫 Contate-me no e-mail: contatofernandoferreira@outlook.com
 
  ##
@@ -17,8 +17,7 @@
   <img align="center" alt="Fer-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Fer-CSS" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >     
+   <img align="center" alt="Fer-Node" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >     
 </div>
  
 ##
