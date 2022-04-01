@@ -1,4 +1,4 @@
-### Olá! Eu sou o Fernando Ferreira
+### Olá! Eu sou o Fernando
 
 - 🔭 Hoje trabalho com Back-end
 - 🌱 Estudando Typescript, Javascript
