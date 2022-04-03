@@ -1,8 +1,8 @@
-### Olá! Eu sou o Fernando
+### Hi! I am Fernando
 
-- 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando Typescript, Javascript
-- 📫 Contate-me no e-mail: contatofernandoferreira@outlook.com
+- 🔭 Today I work with Back-end
+- 🌱 Studying Typescript, Javascript
+- 📫 Contact me by e-mail: contatofernandoferreira@outlook.com
 
  ##
  
