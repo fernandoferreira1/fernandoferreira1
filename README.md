@@ -1,7 +1,7 @@
 ### Hi! I am Fernando
 
 - 🔭 Today I work with Back-end
-- 🌱 Studying C#/.Net
+- 🌱 Studying C#/.Net/SQL
 - 📫 Contact me by e-mail: contato.ff.mail@gmail.com
 
  ##
