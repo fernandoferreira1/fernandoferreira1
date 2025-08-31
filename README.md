@@ -1,7 +1,7 @@
 ### Hi! I am Fernando
 
 - 🔭 Today I work with Back-end
-- 🌱 Studying Typescript, Javascript
+- 🌱 Studying C#/.Net
 - 📫 Contact me by e-mail: contatofernandoferreira@outlook.com
 
  ##
