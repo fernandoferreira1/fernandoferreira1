@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
  
   <img align="center" alt="Fer-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Fer-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+  <img align="center" alt="Fer-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="Fer-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
 
   <img align="right" alt="Cat-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/e-LsbnNHQ5cAAAAM/catjam-cat-dancing.gif">
